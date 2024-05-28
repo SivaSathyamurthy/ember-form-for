@@ -48,6 +48,9 @@
     "eslint-plugin-ember-suave": "^1.0.0",
     "loader.js": "^4.6.0"
   },
+  "overrides": {
+    "node-sass": "7.0.1"
+  },
   "engines": {
     "node": ">= 4"
   },
